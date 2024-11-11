@@ -141,3 +141,5 @@ describe('Controlador de Usuários', () => {
     });
   });
 });
+
+// Houve essa tentativa, mas estava IMPOSSÍVEL de fazer
